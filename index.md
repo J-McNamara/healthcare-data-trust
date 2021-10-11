@@ -13,6 +13,7 @@ Articles that explain the importance of our mission.
 - [Contributing to medicine by donating medical records](https://today.mims.com/contributing-to-medicine-by-donating-medical-records)
 - [Researchers propose a system to donate personal health data after death](https://www.fiercehealthcare.com/ehr/researchers-call-for-a-system-to-donate-health-data-after-death)
 - [It’s easier to donate your body to science than your medical records](https://www.theverge.com/2019/5/28/18642621/medical-records-donate-science-digital-data-health-body-death)
+- [Enabling Posthumous Medical Data Donation: A Plea for the Ethical Utilisation of Personal Health Data](https://www.ncbi.nlm.nih.gov/books/NBK554062/)
 - 
 
 
