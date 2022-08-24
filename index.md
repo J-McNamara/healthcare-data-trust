@@ -5,7 +5,7 @@ background: '/img/doccomp.jpg'
 ### Our Mission
 We are a non-profit repository for personal medical data. We make sure that your medical history is securely stored and transferred to family members or care providers when you decide.
 
-Help us support a healthy future and cure diseases by signing up to be an end of life medical record donor today. Contact us [here](mailto:info@healthcaredatatrust.org) and we will help you to enroll. Every story matters- don't let yours be forgotten!
+Help us support a healthy future and cure diseases by signing up to be an end of life medical record donor today. Contact us [here](mailto:info@healthcaredatatrust.org) and we will help you to enroll. Every health story matters- don't let yours be forgotten.
 
 ### In the News
 Articles that explain the importance of our mission. 
